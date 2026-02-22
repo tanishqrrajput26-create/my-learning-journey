@@ -135,3 +135,22 @@ Requires trained users
 
 DBMS is an important software system that helps in managing large amounts of data efficiently and securely.
 
+## 9️⃣ DBMS Architecture
+
+DBMS Architecture explains how data is stored and accessed.
+
+### 1-Tier Architecture
+- Database and user are on the same system.
+- Mostly used for learning and small applications.
+
+### 2-Tier Architecture
+- Client directly communicates with database.
+- Used in small client-server applications.
+
+### 3-Tier Architecture
+- Client → Application Server → Database
+- Most secure and widely used.
+- Example: Banking and web applications.
+## Day 4:
+- Learned DBMS architecture.
+- Understood 1-tier, 2-tier, and 3-tier systems.
