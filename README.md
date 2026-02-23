@@ -154,3 +154,45 @@ DBMS Architecture explains how data is stored and accessed.
 ## Day 4:
 - Learned DBMS architecture.
 - Understood 1-tier, 2-tier, and 3-tier systems.
+
+## 10️⃣ Normalization
+
+**Normalization** = Organizing tables in DBMS to **remove redundancy*(duplicate data) and **avoid errors**.
+
+### 1️⃣ First Normal Form (1NF)
+
+* Each column must have atomic values(no lists in a cell)
+* Each row must be unique
+
+Example:
+
+| Roll No | Name  | Subjects      |
+| ------- | ----- | ------------- |
+| 101     | Rahul | Math, Science |
+
+✅ 1NF fixes it:
+
+| Roll No | Name  | Subject |
+| ------- | ----- | ------- |
+| 101     | Rahul | Math    |
+| 101     | Rahul | Science |
+
+### 2️⃣ Second Normal Form (2NF)
+
+* 1NF + No partial dependency
+* Every column depends on whole primary key
+
+### 3️⃣ Third Normal Form (3NF)
+
+* 2NF + No transitive dependency
+* Columns depend only on primary key, not on other columns
+
+### Day 5:
+
+* Learned basics of Normalization
+* Understood 1NF, 2NF, 3NF with example
+
+
+
+
+
