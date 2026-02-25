@@ -192,7 +192,72 @@ Example:
 * Learned basics of Normalization
 * Understood 1NF, 2NF, 3NF with example
 
+11️⃣ ER Diagram (Entity Relationship Diagram)
+
+An **ER Diagram** is a visual representation of data and the relationship between data in a database.
+
+It helps in **database design** before creating tables.
+
+ 🔹 Entity
+
+An **Entity** is a real-world object.
+
+Examples:
+
+* Student
+* Teacher
+* Course
+
+Entity is represented using a **Rectangle**.
+ 🔹 Attribute
+
+An **Attribute** describes an entity.
+
+Examples:
+
+* Student Name
+* Roll Number
+* Age
+
+Attribute is represented using an **Oval**.
 
 
+ 🔹 Primary Key
 
+A **Primary Key** uniquely identifies each record.
 
+Example:
+
+* Roll Number (for Student)
+
+Primary key is underlined in ER Diagram.
+
+🔹 Relationship
+
+A **Relationship** shows how two entities are connected.
+
+Example:
+
+* Student **enrolls in** Course
+
+Relationship is represented using a **Diamond**.
+🔹 Types of Relationships
+* One to One (1:1)
+* One to Many (1:M)
+* Many to Many (M:M)
+
+Example:
+
+* One teacher teaches many students (1:M)
+  
+ 🔹 Advantages of ER Diagram
+* Easy to understand database structure
+* Helps in proper database design
+* Reduces errors before implementation
+## Day 6:
+
+* Learned ER Diagram concepts
+* Understood entity, attribute, and relationship
+* Learned importance of ER Diagram in DBMS
+
+             
