@@ -260,4 +260,80 @@ Example:
 * Understood entity, attribute, and relationship
 * Learned importance of ER Diagram in DBMS
 
-             
+## 12️⃣ Keys in DBMS
+
+A **Key** is used to identify records uniquely in a table.
+
+Keys help to:
+
+* Avoid duplicate data
+* Maintain data accuracy
+* Create relationships between tables
+
+### 🔑 Primary Key
+
+* Uniquely identifies each record
+* Cannot be NULL
+* Only one primary key in a table
+
+Example:
+
+* Roll Number in Student table
+
+### 🔑 Foreign Key
+
+* A key used to link two tables
+* Refers to the primary key of another table
+
+Example:
+
+* Student table has Course ID as foreign key
+
+### 🔑 Candidate Key
+
+* All possible keys that can uniquely identify a record
+* One candidate key becomes the primary key
+
+Example:
+
+* Roll No, Email ID
+
+### 🔑 Super Key
+
+* A set of one or more attributes that identify records uniquely
+
+Example:
+
+* (Roll No + Name)
+
+### 🔑 Alternate Key
+
+* Candidate keys not selected as primary key
+
+Example:
+
+* Email ID (if Roll No is primary key)
+
+### 🔑 Composite Key
+
+* A key made of more than one attribute
+
+Example:
+
+* (Student ID + Subject ID)
+
+### 🔑 Difference: Primary Key vs Foreign Key
+
+| Primary Key    | Foreign Key      |
+| -------------- | ---------------- |
+| Unique         | Not unique       |
+| Cannot be NULL | Can be NULL      |
+| One per table  | Multiple allowed |
+
+## Day 7:
+
+* Learned different types of keys in DBMS
+* Understood how tables are connected using keys
+
+
+Ready for **DAY 8**?
