@@ -2,7 +2,7 @@
 
 print("For Loop Example:")
 for i in range(1, 6):
-    print("Number:", i)
+    print(" current Number is :", i)
 
 print("\nWhile Loop Example:")
 count = 1
