@@ -335,5 +335,3 @@ Example:
 * Learned different types of keys in DBMS
 * Understood how tables are connected using keys
 
-
-Ready for **DAY 8**?
