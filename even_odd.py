@@ -1,15 +1,4 @@
- # Program to check whether a number is even or odd
-
-# Take number input from user
-num = int(input("Enter a number: "))
-
-# Check if number is divisible by 2
-if num % 2 == 0:
-    print("The number is Even")
-else:
-    print("The number is Odd")
-
-
+# Program to check whether a number is even or odd
 
 # Function to check even or odd
 def check_even_odd(number):
@@ -18,7 +7,11 @@ def check_even_odd(number):
     else:
         return "Odd"
 
+# Taking input from user
 num = int(input("Enter a number: "))
+
+# Calling the function
 result = check_even_odd(num)
 
-print("The number is:", result)
+# Display result
+print(f"The number {num} is {result}")
