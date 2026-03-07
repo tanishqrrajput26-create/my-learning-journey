@@ -1,9 +1,12 @@
 # Program to find the largest of three numbers
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-c = int(input("Enter third number: "))
+def find_largest(a, b, c):
+    return max(a, b, c)
 
-largest = max(a, b, c)
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+num3 = int(input("Enter third number: "))
 
-print("Largest number is:", largest)
+largest = find_largest(num1, num2, num3)
+
+print(f"The largest number is {largest}")
