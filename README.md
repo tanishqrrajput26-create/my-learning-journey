@@ -16,8 +16,6 @@ Promise to myself
 I will try to update this daily, even if it is small.
 # Programming & DBMS Learning Repository
 
-Hello! I am **Tanishq Rajput**.
-
 This repository contains my **daily coding practice and DBMS learning notes.  
 I am improving my programming skills and understanding core computer science concepts step by step.
 
@@ -50,7 +48,10 @@ Some programs included in this repository:
 - Character counter
 - List examples
 - Student record system
-
+## Mini Projects
+- Simple Calculator
+- Random Number Guessing Game
+- 
 📖 DBMS Notes
 
 I am also adding notes to understand DBMS concepts clearly, such as:
