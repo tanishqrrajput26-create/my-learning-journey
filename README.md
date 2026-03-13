@@ -51,6 +51,12 @@ Some programs included in this repository:
 ## Mini Projects
 - Simple Calculator
 - Random Number Guessing Game
+
+- ## New Programs
+- Even numbers from list
+- Sum of list
+- Temperature converter
+- Reverse string
 - 
 📖 DBMS Notes
 
