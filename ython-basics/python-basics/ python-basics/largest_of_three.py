@@ -7,3 +7,12 @@ c = int(input("Enter third number: "))
 largest = max(a, b, c)
 
 print("Largest number is:", largest)
+
+
+# Example Input:
+# 10
+# 25
+# 15
+
+# Example Output:
+# Largest number is: 25
