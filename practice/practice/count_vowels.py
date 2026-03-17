@@ -10,3 +10,12 @@ for char in text:
         count += 1
 
 print("Number of vowels:", count)
+
+
+#Example Input:
+# hello
+
+# Example Output:
+# Number of vowels: 2
+
+
