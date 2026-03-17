@@ -11,3 +11,10 @@ if num > 1:
         print("Prime number")
 else:
     print("Not a prime number")
+
+
+# Example Input:
+# 7
+
+# Example Output:
+# Prime number
