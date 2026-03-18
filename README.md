@@ -51,6 +51,9 @@ Some programs included in this repository:
 ## Mini Projects
 - Simple Calculator
 - Random Number Guessing Game
+- Contact Book
+- Quiz Game
+- Countdown Timer
 
 - ## New Programs
 - Even numbers from list
