@@ -60,7 +60,11 @@ Some programs included in this repository:
 - Sum of list
 - Temperature converter
 - Reverse string
-- 
+- To-Do List
+- Calculator
+- Guessing Game
+- Password Generator
+ 
 📖 DBMS Notes
 
 I am also adding notes to understand DBMS concepts clearly, such as:
