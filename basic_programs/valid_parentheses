@@ -1,0 +1,23 @@
+#Valid Parentheses
+
+s = input("Enter brackets: ")
+
+stack = []
+mapping = {')': '(', '}': '{', ']': '['}
+
+for char in s:
+    if char in mapping.values():
+        stack.append(char)
+    elif char in mapping:
+        if not stack or stack[-1] != mapping[char]:
+            print("Invalid")
+            break
+        stack.pop()
+else:
+    if not stack:
+        print("Valid")
+    else:
+        print("Invalid")
+      
+#Input: ()[]{}
+#Output: Valid
