@@ -1,0 +1,15 @@
+# Alphabet pattern
+
+n = int(input("Enter rows: "))
+
+for i in range(n):
+    ch = 'A'
+    for j in range(i+1):
+        print(ch, end=" ")
+        ch = chr(ord(ch) + 1)
+    print()
+
+ # A
+# A B
+# A B C
+# A B C D
