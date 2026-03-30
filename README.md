@@ -64,7 +64,19 @@ Some programs included in this repository:
 - Calculator
 - Guessing Game
 - Password Generator
- 
+ # Python Alarm Clock ⏰
+
+This is a simple digital clock with alarm using Tkinter.
+
+## Features:
+- Live time display
+- User input alarm
+- Beep sound
+
+## How to run:
+1. Install Python
+2. Run the file:
+   python alarm_clock.py
 📖 DBMS Notes
 
 I am also adding notes to understand DBMS concepts clearly, such as:
