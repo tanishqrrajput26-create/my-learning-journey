@@ -12,3 +12,10 @@ for i in range(len(arr)):
 
 print("New length:", k)
 print("Updated array:", arr[:k])
+
+#Input:
+#3 2 2 3 3
+
+#Output:
+#New length: 2
+#Updated array: [2, 2]
