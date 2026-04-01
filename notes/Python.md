@@ -1,0 +1,1 @@
+Python is a high-level, interpreted programming language known for readability and efficiency, widely used for web development (Django, Flask), AI/ML (TensorFlow, PyTorch), and data science. It supports easy script execution without compilation, making it ideal for automation and rapid prototyping. 
