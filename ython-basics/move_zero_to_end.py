@@ -15,3 +15,9 @@ for i in range(k, len(arr)):
     arr[i] = 0
 
 print("Result:", arr)
+
+#Input:
+#0 1 0 3 12
+
+#Output:
+#[1, 3, 12, 0, 0]
