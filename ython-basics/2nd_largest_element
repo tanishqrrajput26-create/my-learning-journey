@@ -12,3 +12,10 @@ for num in arr:
         second = num
 
 print("Second largest:", second)
+
+
+#Input:
+#10 20 4 45 99
+
+#Output:
+#Second largest: 45
