@@ -7,3 +7,8 @@ total = n * (n + 1) // 2
 missing = total - sum(arr)
 
 print("Missing number:", missing)
+#Input:
+#1 2 4 5
+
+#Output:
+#Missing number: 3
