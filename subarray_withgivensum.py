@@ -8,6 +8,15 @@ Expand window → increase sum Shrink window → reduce sum
 arr = list(map(int, input("Enter elements: ").split()))
 target = int(input("Enter target sum: "))
 
+
+#Input:
+#1 2 3 7 5
+#12
+
+#Output:
+#Subarray found from index 1 to 3
+
+
 left = 0
 current_sum = 0
 
