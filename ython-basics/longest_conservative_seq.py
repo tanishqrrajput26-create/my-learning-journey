@@ -17,3 +17,9 @@ for num in num_set:
         longest = max(longest, length)
 
 print("Longest consecutive length:", longest)
+
+#Input:
+#100 4 200 1 3 2
+
+#Output:
+#Longest consecutive length: 4
