@@ -23,3 +23,10 @@ while left <= right:
 
 if not found:
     print("Not found")
+
+#Input:
+#1 3 5 7 9
+#5
+
+#Output:
+#Found at index: 2
