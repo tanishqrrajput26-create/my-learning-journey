@@ -40,7 +40,6 @@ Database Management System (DBMS)
 
 🧠 Practice Programs
 Some programs included in this repository:
-
 - Sum of two numbers
 - Even or Odd checker
 - Multiplication table
