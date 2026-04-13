@@ -8,8 +8,12 @@ else:
     print("It is an Odd number")
 
 if num > 0:
+
     print("It is Positive")
+
 elif num < 0:
+
     print("It is Negative")
 else:
+
     print("It is Zero")
