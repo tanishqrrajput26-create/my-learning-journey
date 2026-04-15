@@ -1,4 +1,3 @@
-Keys in DBMS
 
 Keys are used to uniquely identify records in a database table.
 Types of Keys
