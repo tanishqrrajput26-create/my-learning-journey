@@ -8,3 +8,4 @@ while num > 0:
     count += 1
 
 print("Total digits:", count)
+
