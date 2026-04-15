@@ -4,7 +4,8 @@ AI Overview
 
 
 What is Python used For? 
-functional purposes | VakomsPython is a popular, high-level, interpreted programming language known for its simplicity, readability, and versatility. Created by Guido van Rossum in 1991, it is used for data science, artificial intelligence (AI), web development, automation (scripting), and software testing, powering applications at companies like Netflix and NASA. 
+
+functional purposes  VakomsPython is a popular, high-level, interpreted programming language known for its simplicity, readability, and versatility. Created by Guido van Rossum in 1991, it is used for data science, artificial intelligence (AI), web development, automation (scripting), and software testing, powering applications at companies like Netflix and NASA. 
  
 Key Features of Python
 
