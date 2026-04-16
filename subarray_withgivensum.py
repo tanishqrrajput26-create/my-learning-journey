@@ -5,6 +5,7 @@ Expand window → increase sum Shrink window → reduce sum
 
 # Subarray with given sum
 
+
 arr = list(map(int, input("Enter elements: ").split()))
 target = int(input("Enter target sum: "))
 
