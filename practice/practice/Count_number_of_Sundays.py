@@ -21,5 +21,4 @@ print("Number of Sundays:", count)
 
 
 
-
-#output : id days=75 day=tuesday   then 10 sundays will be the o/p 
+#output:id days=75 day=tuesday   then 10 sundays will be the o/p 
