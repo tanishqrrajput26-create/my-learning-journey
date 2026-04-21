@@ -9,3 +9,5 @@ else:
 
 if password.isdigit():
     print("Password should not be only numbers")
+
+#output
