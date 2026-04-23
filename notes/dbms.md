@@ -1,8 +1,7 @@
 
 📘DBMS (Database Management System)
 
-1️⃣ Introduction
-
+1️⃣ Introduction:-
 DBMS stands for Database Management System.
 
 It is software that is used to store, manage, and organize data in a structured way.
