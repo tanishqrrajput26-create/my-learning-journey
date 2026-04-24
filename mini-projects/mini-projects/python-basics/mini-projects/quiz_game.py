@@ -12,5 +12,7 @@ if answer.lower() == "delhi":
 
 print("Your score is:", score)
 
+output:
+
 
 
