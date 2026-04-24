@@ -7,3 +7,5 @@ domain = email[email.index("@")+1:]
 
 print("Username:", username)
 print("Domain:", domain)
+
+output:
