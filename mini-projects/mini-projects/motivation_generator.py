@@ -11,3 +11,5 @@ quotes = [
 ]
 
 print(random.choice(quotes))
+
+output:
