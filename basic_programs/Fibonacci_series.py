@@ -10,3 +10,4 @@ for i in range(n):
 
  #input=5
 # Output: 0 1 1 2 3
+
