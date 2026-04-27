@@ -12,4 +12,4 @@ Key Features of Python
 Easy to Learn/Read: Its syntax resembles English, reducing the cost of program maintenance.
 Interpreted Language: It executes code line-by-line, which makes debugging easy.
 Open Source & Portable: Free to use, distribute, and runs on all major platforms (Windows, Linux, Mac).
-Extensive Libraries: A massive ecosystem of modules for specialized tasks (e.g., NumPy for data, Django for web). 
+Extensive Libraries: A massive ecosystem of modules for specialized tasks (e.g, NumPy for data, Django for web). 
