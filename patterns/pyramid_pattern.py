@@ -11,3 +11,8 @@ if num > 1:
         print("Prime number")
 else:
     print("Not a prime number")
+
+#outpu:-
+#Enter a no.
+
+ 
