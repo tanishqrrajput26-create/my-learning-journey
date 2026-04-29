@@ -24,3 +24,4 @@ while True:
 
     else:
         print("Invalid choice")
+#output
