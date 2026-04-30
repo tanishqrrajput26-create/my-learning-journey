@@ -8,3 +8,5 @@ num = int(input("Enter a number: "))
 
 print("Multiplication Table:")
 print_table(num)
+
+#Output 
