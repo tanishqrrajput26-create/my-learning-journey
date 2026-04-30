@@ -17,3 +17,5 @@ elif num < 0:
 else:
 
     print("It is Zero")
+
+#outputt
