@@ -33,3 +33,5 @@ for right in range(len(arr)):
         break
 else:
     print("No subarray found")
+
+#output:
