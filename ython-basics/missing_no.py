@@ -11,4 +11,4 @@ print("Missing number:", missing)
 #1 2 4 5
 
 #Output:
-#Missing number: 3
+#Missing number:3
