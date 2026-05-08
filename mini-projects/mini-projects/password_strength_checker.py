@@ -9,4 +9,4 @@ elif len(password) < 10:
 else:
     print("Strong password")
 #output:
-#
+
