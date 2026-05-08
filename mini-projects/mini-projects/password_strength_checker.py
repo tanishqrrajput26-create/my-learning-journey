@@ -8,3 +8,5 @@ elif len(password) < 10:
     print("Medium strength password")
 else:
     print("Strong password")
+#output:
+#
