@@ -2,7 +2,7 @@
 
 import random
 
-names = ["Aman", "Rahul", "Tanishq", "Riya", "Priya"]
+names = ["Aman", "Rohity", "Tanaya", "Riya", "Priya"]
 
 winner = random.choice(names)
 
