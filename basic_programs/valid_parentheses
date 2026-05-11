@@ -22,3 +22,4 @@ else:
 #Input: ()[]{}
 
 #Output: Valid
+# for each bracket there is special use .
