@@ -18,7 +18,7 @@ while True:
         for i, t in enumerate(tasks, 1):
             print(i, ".", t)
 
-    elif choice == "3":
+    elif choice == "3" :
         break
 
     else:
