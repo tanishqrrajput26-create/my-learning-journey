@@ -39,6 +39,5 @@ else:
 # 1
 # 5
 # 3
-
 # Example Output:
 # Result: 8
