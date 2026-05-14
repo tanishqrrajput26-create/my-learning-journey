@@ -15,7 +15,7 @@ for i in range(len(nums)):
 
     seen[nums[i]] = i
     
-#output
+#output:
 
 #nums = [2, 7, 11, 15]
 #target = 9
