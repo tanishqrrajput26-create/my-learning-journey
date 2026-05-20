@@ -18,6 +18,5 @@ print("Leaders:", leaders)
 
 # Input:
 # 16 17 4 3 5 2
-
 # Output:
 # Leaders: [17, 5, 2]
