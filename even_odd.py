@@ -12,6 +12,5 @@ num = int(input("Enter a number: "))
 
 # Calling the function
 result = check_even_odd(num)
-
 # Display result
 print(f"The number {num} is {result}")
