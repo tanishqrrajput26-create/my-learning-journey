@@ -8,5 +8,4 @@ if guess == secret_number:
 
     print("Correct guess!")
 else:
-    print("Wrong guess. Try again.")
-#output:
+    print("Wrong guess. Try again ")
