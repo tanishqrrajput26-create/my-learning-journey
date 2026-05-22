@@ -24,7 +24,6 @@ elif user == "scissors" and computer == "paper":
 
 elif user in choices:
     print("Computer wins!")
-
 else:
     print("Invalid input")
 
