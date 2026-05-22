@@ -15,7 +15,7 @@ while True:
         print("Task added!")
 
     elif choice == "2":
-        for i, t in enumerate(tasks, 1):
+        for i, t in enumerate(tasks,1):
             print(i, ".", t)
 
     elif choice == "3" :
