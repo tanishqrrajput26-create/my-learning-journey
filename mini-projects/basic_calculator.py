@@ -34,7 +34,6 @@ else:
     print("Invalid choice")
 
 
-
 # Example Input:
 # 1
 # 5
