@@ -10,6 +10,6 @@ while True:
     
     again = input("Roll again? (yes/no): ").lower()
     
-    if again != "yes":
+   if again != "yes":
         break
 
