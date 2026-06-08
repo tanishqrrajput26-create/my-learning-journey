@@ -2,7 +2,7 @@
 
 file = open("sample.txt", "w")
 
-file.write("Hello, this is my first file handling program!")
+file.write("Hello, this is my first python  file handling program!")
 
 file.close()
 
