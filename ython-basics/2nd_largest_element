@@ -15,7 +15,7 @@ print("Second largest:", second)
 
 
 #Input:
-#10 20 4 45 99
+#10 20 48 45 99
 
 #Output:
-#Second largest: 45
+#Second largest: 48
