@@ -12,6 +12,8 @@ for i in range(n):
         num += 1
 
     if i % 2 == 1:
+
+output:
         row.reverse()
 
     print(*row)
