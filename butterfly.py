@@ -1,4 +1,4 @@
-# Butterfly Pattern
+# Butterfly Patternn
 
 n = int(input("Enter size: "))
 
