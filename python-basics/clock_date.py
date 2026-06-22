@@ -6,6 +6,7 @@ root.title("Clock with Date")
 
 def time():
     current_time = strftime('%H:%M:%S %p')
+
     current_date = strftime('%A, %d %B %Y')
     
     time_label.config(text=current_time)
