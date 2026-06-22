@@ -8,3 +8,6 @@ minutes = hours * 60
 
 # Displaying output
 print("Total minutes:", minutes)
+
+#output: Enter hours: 2
+#Total minutes: 120minutes
