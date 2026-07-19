@@ -5,7 +5,7 @@ arr = list(map(int, input("Enter array elements: ").split()))
 leaders = []
 max_from_right = float('-inf')
 
-# Traverse from right
+#Traverse from right
 for num in reversed(arr):
     if num >= max_from_right:
         leaders.append(num)
