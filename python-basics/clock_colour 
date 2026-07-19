@@ -6,7 +6,7 @@ import winsound  # Only works on Windows
 root = tk.Tk()
 root.title("Clock with Alarm")
 
-alarm_time = "14:30:00"  # Set your alarm time here
+alarm_time = "14:30:00"  # Set ur alarm time here
 
 def time():
     current_time = strftime('%H:%M:%S')
